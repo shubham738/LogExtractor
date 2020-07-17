@@ -1,0 +1,5 @@
+2020-07-15T13:21:45.0122Z,234 - INFO -  ::::: confirmPicking quantity--------3118
+2020-07-15T15:27:43.1234Z,234 - INFO -  ::::: confirmPicking Qty requested --------31
+2020-07-15T17:27:43.1234Z,234 - INFO -  ::::: materialId = 9410
+2020-07-15T18:27:43.1234Z,234 - INFO -  ::::: flagToPurge = false
+2020-07-15T18:47:25.1235Z,234 - INFO -  ::::: >>>>>>>>>>>>> Updating Inventory <<<<<<<<<<<<<<<<<<<<
